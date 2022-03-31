@@ -142,6 +142,7 @@ body, html {
 .test {
     padding: 0 50px;
     text-align: justify;
+    test-align-last:left;
 }
 
 .article {
