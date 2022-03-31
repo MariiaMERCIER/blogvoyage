@@ -26,7 +26,6 @@ body, html {
 
 .topbar nav {
     float: left;
-   
 }
 
 .topbar nav a {
@@ -200,13 +199,12 @@ margin: 50px 0;
 }
 
 .photo-article img {
-        margin: 20px 50px; 
-        height: auto;
-        width: 790px;
-        left:0;
-        top:0;
+    margin: 20px 50px; 
+    height: auto;
+    width: 790px;
+    left:0;
+    top:0;
 }
-
 
 .apropos img {
     padding-top: 50px;
